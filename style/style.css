@@ -96,7 +96,7 @@ nav li:last-child{
 }
 
 .top-ban{
-  background: url(./img/hero.png) no-repeat center center;
+  background: url(hero.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
